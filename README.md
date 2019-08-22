@@ -1,3 +1,10 @@
+> # ⚠ Project moved
+> The project has been moved to a new organization: https://github.com/logur
+>
+> It also received a vanity import URL: `logur.dev/logur`
+>
+> This package will stay here to provide backward compatibility, but it won't receive any updates. Please follow the new repositories.
+
 # Logur
 
 [![Go Version](https://img.shields.io/badge/go%20version-%3E=1.11-orange.svg?style=flat-square)](https://github.com/goph/logur)

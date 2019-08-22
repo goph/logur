@@ -64,8 +64,8 @@ so Logur might not be for you.
     - [MySQL driver](https://github.com/go-sql-driver/mysql)
     - [Watermill](https://watermill.io/)
     - [InvisionApp logger](https://github.com/InVisionApp/go-logger) interface
-    - [Bugsnag](https://bugsnag.com) [SDK](https://godoc.org/github.com/bugsnag/bugsnag-go) (logger, for error handling see [github.com/goph/emperror](https://github.com/goph/emperror))
-    - [Rollbar](https://rollbar.com) [SDK](https://godoc.org/github.com/rollbar/rollbar-go) (logger, for error handling see [github.com/goph/emperror](https://github.com/goph/emperror))
+    - [Bugsnag](https://bugsnag.com) [SDK](https://godoc.org/github.com/bugsnag/bugsnag-go) (logger, for error handling see [github.com/emperror/handler-bugsnag](https://github.com/emperror/handler-bugsnag))
+    - [Rollbar](https://rollbar.com) [SDK](https://godoc.org/github.com/rollbar/rollbar-go) (logger, for error handling see [github.com/emperror/handler-rollbar](https://github.com/goph/handler-rollbar))
     - [logr](https://github.com/go-logr/logr) logger interface
     - [go-kit](https://github.com/go-kit/kit) logger
     - [zap](https://github.com/uber-go/zap) logger
